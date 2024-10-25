@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/cXtPxrz/development-opportunity-strategy-improvement-word.jpg",
+      "title": "The Future of Web Development",
+      "author": "John Doe",
+      "author_img": "",
+      "posted_date": "2024-10-20",
+      "reading_time": 5,
+      "hashtags": ["#WebDev", "#React"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/t4gHnp4/html-css-collage-concept-with-person.jpg",
+      "title": "Mastering CSS Grid",
+      "author": "Jane Smith",
+      "author_img": "",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["#CSS", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/qJSwwk6/software-digital-electronics-internet-program-web-concept.jpg",
+      "title": "Understanding Async/Await in JavaScript",
+      "author": "Emily Clarke",
+      "author_img": "",
+      "posted_date": "2024-10-05",
+      "reading_time": 6,
+      "hashtags": ["#Async", "#Programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/y6RZNPk/close-up-it-professional-using-tablet-building-ai-algorithms.jpg",
+      "title": "Exploring the New Features of ES2024",
+      "author": "Mark Thompson",
+      "author_img": "",
+      "posted_date": "2024-08-28",
+      "reading_time": 10,
+      "hashtags": ["#ES6", "#WebDevelopment"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/2NcZPr6/responsive-design-layout-internet-concept.jpg",
+      "title": "Building Responsive Websites with Bootstrap 5",
+      "author": "Alex Johnson",
+      "author_img": "",
+      "posted_date": "2024-07-18",
+      "reading_time": 7,
+      "hashtags": ["#Bootstrap", "#ResponsiveDesign"]
+    }
+  ]
